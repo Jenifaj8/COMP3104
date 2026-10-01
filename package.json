@@ -1,0 +1,23 @@
+{
+  "name": "comp3104",
+  "version": "1.0.0",
+  "description": "-- Jenifa Joseph\r -- George Brown Polytechnic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jenifaj8/COMP3104.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jenifaj8/COMP3104/issues"
+  },
+  "homepage": "https://github.com/Jenifaj8/COMP3104#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
