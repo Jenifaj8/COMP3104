@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/Jenifaj8/COMP3104/issues"
   },
-  "homepage": "https://github.com/Jenifaj8/COMP3104",
+  "homepage": "https://Jenifaj8.github.io/COMP3104",
 "dependencies": {
     "@testing-library/dom": "^10.4.2",
     "@testing-library/jest-dom": "^6.9.1",
