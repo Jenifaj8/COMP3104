@@ -36,6 +36,10 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+       # Build React app
+      - name: Build the app
+        run: npm run build
+
       # Step 4: Run tests
       - name: Run tests
         run: npm test
